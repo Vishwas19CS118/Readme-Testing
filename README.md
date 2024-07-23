@@ -2,7 +2,7 @@
 
 <html>
 <body>
-  <button id="openLinkButton">Open GitHub in New Tab</button>
+  <button type="button" id="openLinkButton">Open GitHub in New Tab</button>
 
   <script>
     document.getElementById('openLinkButton').onclick = function() {
