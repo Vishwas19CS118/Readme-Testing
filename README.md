@@ -1,10 +1,9 @@
 # Readme-Testing
 
 <details>
-  <summery>index.html</summery>
-
-  ```html
-<!DOCTYPE html>
+  <summary>Show more images</summary>
+  <code>
+    <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -21,4 +20,6 @@
   </script>
 </body>
 </html>
+  </code>
+
 </details>
