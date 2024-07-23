@@ -1,7 +1,9 @@
 # Readme-Testing
 
+<details>
+  <summery>index.html</summery>
 
-```html
+  ```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -19,3 +21,4 @@
   </script>
 </body>
 </html>
+</details>
