@@ -2,7 +2,7 @@
 
 <details>
   <summary>Show more images</summary>
-  <code>
+
     <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -20,6 +20,5 @@
   </script>
 </body>
 </html>
-  </code>
 
 </details>
