@@ -1,7 +1,7 @@
 # Readme-Testing
 
 <details>
-  <summary><code>index.html</code></summary>
+  <code><summary>index.html</summary></code>
 
   ```html
 <!DOCTYPE html>
