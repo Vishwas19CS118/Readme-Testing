@@ -1,8 +1,16 @@
 # Readme-Testing
 
-<html>
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Open Link in New Tab</title>
+</head>
 <body>
-  <button type="button" id="openLinkButton">Open GitHub in New Tab</button>
+  <button id="openLinkButton">Open GitHub in New Tab</button>
 
   <script>
     document.getElementById('openLinkButton').onclick = function() {
